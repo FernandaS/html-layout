@@ -1,0 +1,45 @@
+.red {
+     background: red;
+     position: inline-block;
+     height: 200px;
+     width: 100%;
+ }   
+ 
+ .content {
+ 	height: 500px;
+ 	width: 100%;
+ 
+ }
+  
+
+.blueR {
+	background: blue;
+	height: 100%;
+	width: 20%; 
+	float: right;
+}
+
+.blueL {
+	background: blue;
+	height: 100%;
+	width: 20%; 
+	float: left;
+	
+	
+}
+
+.green {
+	background-color: green;
+	height: 100px;
+	width: 60%;
+	float: left;
+}
+
+
+.yellow {
+	background-color: yellow;
+	height: 400px;
+	width: 60%;
+	float: left;
+	
+}
